@@ -1,0 +1,12 @@
+{
+    "users": {
+        "ID00000": {
+            "name": "ADMIN",
+            "pidor_count": 0
+        },
+        "ID00001": {
+            "name": "KIR",
+            "pidor_count": 1
+        }
+    }
+}
